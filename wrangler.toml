@@ -1,0 +1,7 @@
+name = "my-blog"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "CFBLOG"
+id = "9224ebf42239451ca8b26270f7f79a50"
